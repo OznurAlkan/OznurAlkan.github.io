@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oznuralkan.github.io/sitemap.xml
